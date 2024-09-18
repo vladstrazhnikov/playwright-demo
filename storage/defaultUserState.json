@@ -1,0 +1,43 @@
+{
+  "cookies": [
+    {
+      "name": "rc_uid",
+      "value": "C8Pv9QF8sfqQ5uzuY",
+      "domain": "localhost",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rc_token",
+      "value": "t6LGZHM0v7y6mZsGNXiaj-S7cZ5BeVpZ0byTy_9oHso",
+      "domain": "localhost",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://localhost",
+      "localStorage": [
+        {
+          "name": "Meteor.userId",
+          "value": "C8Pv9QF8sfqQ5uzuY"
+        },
+        {
+          "name": "Meteor.loginTokenExpires",
+          "value": "Tue Dec 17 2024 19:01:12 GMT+0300 (Moscow Standard Time)"
+        },
+        {
+          "name": "Meteor.loginToken",
+          "value": "t6LGZHM0v7y6mZsGNXiaj-S7cZ5BeVpZ0byTy_9oHso"
+        }
+      ]
+    }
+  ]
+}
